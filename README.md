@@ -5,7 +5,7 @@
 
 
 ## Update!
-- Jan 2022: Fitur My Logbook untuk Dokter di menu profil
+- Jan 2023: Fitur My Logbook untuk Dokter di menu profil
 
 ## Pengenalan
 rssim.dev adalah Sistem Informasi Rumah Sakit Terintegrasi, yang menandakan bahwa sistem ini mencakup fungsi umum yang terdapat pada rumah sakit seperti Rawat Jalan, IGD, Rawat Inap, Apotik, Farmasi, Amprahan, Manajemen, Radiologi, Laboratorium, Gizi, dsb. Sistem ini menggunakan 1 database yang saling menghubungkan fungsi tersebut dengan otomatisasi sehingga memungkinkan rumah sakit untuk menjalankan sistem ini secara paperless maupun hybrid dengan dokumen fisiknya.

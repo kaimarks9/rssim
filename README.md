@@ -5,11 +5,7 @@
 
 
 ## Update!
-- Feb 2021: Modul Telemedic + Smartphone [App Telemedic](https://github.com/kaimarks9/telemedic)
-- Jan 2021: Fitur My Logbook untuk Dokter di menu profil
-- Des 2020: Sudah tersedia [Buku Petunjuk Teknis](https://github.com/kaimarks9/rssim/wiki/Manual-Guide) untuk diunduh/dicetak
-- Nov 2020: Sudah mendukung RedisDB sebagai alternatif MongoDB
-- Sept 2020: Pembagian kolom pada seluruh form seperti di [screenshots](https://github.com/kaimarks9/rssim/issues/118)
+- Jan 2022: Fitur My Logbook untuk Dokter di menu profil
 
 ## Pengenalan
 rssim.dev adalah Sistem Informasi Rumah Sakit Terintegrasi, yang menandakan bahwa sistem ini mencakup fungsi umum yang terdapat pada rumah sakit seperti Rawat Jalan, IGD, Rawat Inap, Apotik, Farmasi, Amprahan, Manajemen, Radiologi, Laboratorium, Gizi, dsb. Sistem ini menggunakan 1 database yang saling menghubungkan fungsi tersebut dengan otomatisasi sehingga memungkinkan rumah sakit untuk menjalankan sistem ini secara paperless maupun hybrid dengan dokumen fisiknya.
